@@ -23,6 +23,8 @@ The same has been provided in the project report as well.
 
 ### Results
 
-After data-preprocessing, feature-selection, and hyper-parametertuning, the final model resulted in the following results
+After data-preprocessing, feature-selection, and hyper-parametertuning, the final model resulted in the following results:
+
 ![plot](./pictures/cv.png)
+
 ![plot](./pictures/test.png)
