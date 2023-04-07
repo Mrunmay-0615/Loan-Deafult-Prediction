@@ -19,3 +19,10 @@ Model_params.zip - Zip folder containing the model weights and biases in HDF5 fo
 
 link to original dataset: https://www.kaggle.com/datasets/gauravduttakiit/bank-fears-loanliness?select=train_indessa.csv
 The same has been provided in the project report as well.
+
+
+### Results
+
+After data-preprocessing, feature-selection, and hyper-parametertuning, the final model resulted in the following results
+![plot](./pictures/cv.png)
+![plot](./pictures/test.png)
