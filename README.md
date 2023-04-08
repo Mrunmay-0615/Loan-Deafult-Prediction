@@ -28,3 +28,15 @@ After data-preprocessing, feature-selection, and hyper-parametertuning, the fina
 ![plot](./pictures/cv.png)
 
 ![plot](./pictures/test.png)
+
+* The cross-validation set was used for hyperparameter 
+tuning and continuously tracking the performance of the 
+network on unseen data. The cross-validation accuracy 
+was found to be 89.04% whereas the F1-score was 
+found to be 0.75 for the positive defaulter class which is 
+very important since predicting a defaulter as a nondefaulter (Type2 error) is a greater risk for the bank 
+than missed loan (Type1 error).
+
+* The accuracy over test-set was found to be 89.22%. The 
+model yielded satisfactory results over both seen and 
+unseen data.
